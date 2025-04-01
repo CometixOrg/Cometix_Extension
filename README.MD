@@ -1,7 +1,7 @@
 ## Cometix Security Web Extension
 
 <div align="center">
-  <img src="https://github.com/CometixOrg/Cometix_Extension/tree/main/readme_assets/banner.png" width="100%" alt="banner" />
+  <img src="https://github.com/CometixOrg/Cometix_Extension/blob/main/readme_assets/banner.png" width="100%" alt="banner" />
 </div>
 
 ### Our website
